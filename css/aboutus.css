@@ -1,3 +1,11 @@
 #abc{
     margin-bottom: 0;
 }
+
+body{
+    padding-top: 50px;
+}
+
+.navbar-dark{
+    background-color: #512DA8;
+}
